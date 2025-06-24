@@ -25,10 +25,10 @@ dotnet run
 ## Example Output
 
 ```
-Basket filled using heaviest-first strategy.
+The basket has been successfully filled.
  - Rice (10 kg)
  - Watermelon (5 kg)
- - Olive Oil (4.5 kg)
+ - Oil (4.5 kg)
 Total weight: 19.5 kg
 ```
 
